@@ -48,3 +48,12 @@ li span {
   text-decoration: line-through;
   color: #999;
 }
+
+.version {
+  font-size: 14px;
+  background: #2e7d32;
+  color: #fff;
+  padding: 2px 8px;
+  border-radius: 10px;
+  vertical-align: middle;
+}
